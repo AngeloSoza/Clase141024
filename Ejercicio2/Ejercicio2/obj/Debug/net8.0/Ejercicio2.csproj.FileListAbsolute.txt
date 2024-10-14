@@ -1,4 +1,0 @@
-C:\Users\angel\OneDrive\Desktop\Metodología_y_programacion_estructurada\Clase_141024\Ejercicio2\Ejercicio2\obj\Debug\net8.0\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\angel\OneDrive\Desktop\Metodología_y_programacion_estructurada\Clase_141024\Ejercicio2\Ejercicio2\obj\Debug\net8.0\Ejercicio2.AssemblyInfoInputs.cache
-C:\Users\angel\OneDrive\Desktop\Metodología_y_programacion_estructurada\Clase_141024\Ejercicio2\Ejercicio2\obj\Debug\net8.0\Ejercicio2.AssemblyInfo.cs
-C:\Users\angel\OneDrive\Desktop\Metodología_y_programacion_estructurada\Clase_141024\Ejercicio2\Ejercicio2\obj\Debug\net8.0\Ejercicio2.csproj.CoreCompileInputs.cache
